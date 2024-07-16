@@ -1,0 +1,30 @@
+[package]
+name = "rpi-demo-emdl"
+version = "0.1.0"
+edition = "2021"
+authors = ["Serg E <eserg.dev@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "Demo for emdl-crates."
+
+[[bin]]
+name = "gpio-reset"
+path = "bin/gpio_reset.rs"
+
+[[bin]]
+name = "gpio-state"
+path = "bin/gpio_state.rs"
+
+[[bin]]
+name = "delay"
+path = "bin/delay.rs"
+
+[[bin]]
+name = "ps2gamepad"
+path = "bin/ps2gamepad.rs"
+
+[dependencies]
+emdl-ps2device = { git = "https://github.com/esedev/emdl-ps2device" }
+linux-embedded-hal = { version = "0.4.0", default-features = false, features = [
+    "gpio_cdev",
+] }
+embedded-hal = "1.0.0"

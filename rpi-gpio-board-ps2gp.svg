@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 502882.38 2519712"
+   version="1.1"
+   id="svg97"
+   width="502882.38"
+   height="2519712"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:bx="https://boxy-svg.com">
+  <defs
+     id="defs97">
+    <rect
+       x="390"
+       y="99.5"
+       width="25"
+       height="15"
+       id="rect20-2" />
+    <rect
+       x="390"
+       y="99.5"
+       width="25"
+       height="15"
+       id="rect21-8" />
+    <rect
+       x="390"
+       y="99.5"
+       width="25"
+       height="15"
+       id="rect22-9" />
+    <rect
+       x="390"
+       y="99.5"
+       width="25"
+       height="15"
+       id="rect25-7" />
+    <rect
+       x="390"
+       y="99.5"
+       width="25"
+       height="15"
+       id="rect26-3" />
+    <rect
+       x="390"
+       y="99.5"
+       width="25"
+       height="15"
+       id="rect27-6" />
+    <rect
+       x="390"
+       y="99.5"
+       width="25"
+       height="15"
+       id="rect29-1" />
+    <rect
+       x="390"
+       y="99.5"
+       width="25"
+       height="15"
+       id="rect30-2" />
+    <rect
+       x="390"
+       y="99.5"
+       width="25"
+       height="15"
+       id="rect31-9" />
+    <marker
+       style="overflow:visible"
+       id="marker20"
+       refX="0"
+       refY="0"
+       orient="auto"
+       markerWidth="0.40000001"
+       markerHeight="0.40000001"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path20-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Dot"
+       refX="0"
+       refY="0"
+       orient="auto"
+       markerWidth="0.40000001"
+       markerHeight="0.40000001"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path17-1" />
+    </marker>
+  </defs>
+  <rect
+     x="-13569.307"
+     y="-11244.163"
+     width="234.694"
+     height="1558.8199"
+     style="fill:none;stroke:#000000;stroke-width:16px"
+     id="rect1" />
+  <path
+     d="m -13413.214,-11199.663 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.167,23.451 m 20.385,-18.994 a 27.863,27.863 0 0 1 -40.77,37.989 27.863,27.863 0 0 1 40.77,-37.989 z"
+     style="fill:#ff0000"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path1" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13422.114"
+     y="-11188.507"
+     id="text1">2</text>
+  <rect
+     x="-13362.307"
+     y="-11221.716"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#ff0000"
+     id="rect2" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;stroke-width:1.42303"
+     transform="scale(1.0074766,0.99257885)"
+     x="-13255.312"
+     y="-11283.447"
+     id="text2">5V</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#f3f3f3;stroke-width:0.802406"
+     transform="scale(1.0983236,0.91047846)"
+     x="-12142.107"
+     y="-12285.637"
+     id="text3">Power</text>
+  <path
+     d="m -13245.202,-11200.179 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path3" />
+  <path
+     d="m -13413.214,-11122.376 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.335,46.902 34.4,34.4 0 1 0 50.335,-46.902 z m -25.167,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.99 27.863,27.863 0 0 1 40.77,-37.99 z"
+     style="fill:#ff0000"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path4" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13422.114"
+     y="-11111.22"
+     id="text4">4</text>
+  <rect
+     x="-13362.307"
+     y="-11144.429"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#ff0000"
+     id="rect4" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;stroke-width:1.42303"
+     transform="scale(1.0074766,0.99257885)"
+     x="-13255.312"
+     y="-11205.583"
+     id="text5">5V</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#f3f3f3;stroke-width:0.802406"
+     transform="scale(1.0983236,0.91047846)"
+     x="-12142.107"
+     y="-12200.751"
+     id="text6">Power</text>
+  <path
+     d="m -13245.202,-11122.892 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.836 4.844,4.844 0 0 1 5.698,-7.836 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path6" />
+  <path
+     d="m -13413.214,-11045.089 m 25.167,-23.452 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.167,23.452 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.989 27.863,27.863 0 0 1 40.77,-37.989 z"
+     style="fill:#d8d8d8"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path7" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13422.114"
+     y="-11033.935"
+     id="text7">6</text>
+  <rect
+     x="-13362.307"
+     y="-11067.144"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#d8d8d8"
+     id="rect7" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.312"
+     y="-11127.719"
+     transform="scale(1.0074766,0.99257885)"
+     id="text8">Ground</text>
+  <path
+     d="m -13245.202,-11045.605 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path8" />
+  <path
+     d="m -13413.214,-10967.803 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.335,46.902 34.4,34.4 0 1 0 50.335,-46.902 z m -25.167,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.99 27.863,27.863 0 0 1 40.77,-37.99 z"
+     style="fill:#5201af"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path9" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13422.114"
+     y="-10956.647"
+     id="text9">8</text>
+  <rect
+     x="-13362.307"
+     y="-10989.856"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#5201af"
+     id="rect9" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#ffffff;stroke-width:1.42303"
+     transform="scale(1.0074766,0.99257885)"
+     x="-13255.312"
+     y="-11049.854"
+     id="text10">GPIO14</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#b3b3b3;stroke-width:0.802406"
+     transform="scale(1.0983236,0.91047846)"
+     x="-12142.107"
+     y="-12030.979"
+     id="text11">UART0_TXD</text>
+  <path
+     d="m -13245.202,-10968.319 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path11" />
+  <path
+     d="m -13413.214,-10890.516 m 25.167,-23.452 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.167,23.452 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.99 27.863,27.863 0 0 1 40.77,-37.99 z"
+     style="fill:#5201af"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path12" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.114"
+     y="-10879.361"
+     id="text12">10</text>
+  <rect
+     x="-13362.307"
+     y="-10912.57"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#5201af"
+     id="rect12" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#ffffff;stroke-width:1.42303"
+     transform="scale(1.0074766,0.99257885)"
+     x="-13255.312"
+     y="-10971.99"
+     id="text13">GPIO15</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#b3b3b3;stroke-width:0.802406"
+     transform="scale(1.0983236,0.91047846)"
+     x="-12142.107"
+     y="-11946.094"
+     id="text14">UART0_RXD</text>
+  <path
+     d="m -13245.202,-10891.032 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path14" />
+  <path
+     d="m -13413.214,-10813.23 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.167,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.99 27.863,27.863 0 0 1 40.77,-37.99 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path15" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.114"
+     y="-10802.074"
+     id="text15">12</text>
+  <rect
+     x="-13362.307"
+     y="-10835.283"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect15" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.312"
+     y="-10894.126"
+     transform="scale(1.0074766,0.99257885)"
+     id="text16">GPIO18</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#686868;stroke-width:0.802406"
+     x="-12142.107"
+     y="-11861.208"
+     transform="scale(1.0983236,0.91047846)"
+     id="text17">PCM_CLK</text>
+  <path
+     d="m -13245.202,-10813.746 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path17" />
+  <path
+     d="m -13413.214,-10735.943 m 25.167,-23.452 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.167,23.452 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.99 27.863,27.863 0 0 1 40.77,-37.99 z"
+     style="fill:#d8d8d8"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path18" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.114"
+     y="-10724.788"
+     id="text18">14</text>
+  <rect
+     x="-13362.307"
+     y="-10757.997"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#d8d8d8"
+     id="rect18" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.312"
+     y="-10816.261"
+     transform="scale(1.0074766,0.99257885)"
+     id="text19">Ground</text>
+  <path
+     d="m -13245.202,-10736.459 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path19" />
+  <path
+     d="m -13413.214,-10658.657 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.167,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.99 27.863,27.863 0 0 1 40.77,-37.99 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path20" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.114"
+     y="-10647.501"
+     id="text20">16</text>
+  <rect
+     x="-13362.307"
+     y="-10680.71"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect20" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.312"
+     y="-10738.396"
+     transform="scale(1.0074766,0.99257885)"
+     id="text21">GPIO23</text>
+  <path
+     d="m -13245.202,-10659.173 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path21" />
+  <path
+     d="m -13413.214,-10581.37 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.335,46.902 34.4,34.4 0 1 0 50.335,-46.902 z m -25.167,23.451 m 20.384,-18.995 a 27.863,27.863 0 0 1 -40.769,37.99 27.863,27.863 0 0 1 40.769,-37.99 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path22" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.114"
+     y="-10570.214"
+     id="text22">18</text>
+  <rect
+     x="-13362.307"
+     y="-10603.423"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect22" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.312"
+     y="-10660.532"
+     transform="scale(1.0074766,0.99257885)"
+     id="text23">GPIO24</text>
+  <path
+     d="m -13245.202,-10581.886 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path23" />
+  <path
+     d="m -13413.214,-10504.084 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.167,23.451 m 20.385,-18.994 a 27.863,27.863 0 0 1 -40.77,37.989 27.863,27.863 0 0 1 40.77,-37.989 z"
+     style="fill:#d8d8d8"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path24" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.114"
+     y="-10492.928"
+     id="text24">20</text>
+  <rect
+     x="-13362.307"
+     y="-10526.137"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#d8d8d8"
+     id="rect24" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.312"
+     y="-10582.668"
+     transform="scale(1.0074766,0.99257885)"
+     id="text25">Ground</text>
+  <path
+     d="m -13245.202,-10504.599 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.327 8.24,8.24 45 1 0 9.693,-13.327 z m -4.847,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path25" />
+  <path
+     d="m -13413.626,-10428.05 m 25.167,-23.452 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.167,23.452 m 20.384,-18.995 a 27.863,27.863 0 0 1 -40.769,37.989 27.863,27.863 0 0 1 40.769,-37.989 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path26" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.526"
+     y="-10416.896"
+     id="text26">22</text>
+  <rect
+     x="-13362.719"
+     y="-10450.104"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect26" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.721"
+     y="-10506.066"
+     transform="scale(1.0074766,0.99257885)"
+     id="text27">GPIO25</text>
+  <path
+     d="m -13245.614,-10428.566 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path27" />
+  <path
+     d="m -13413.626,-10350.764 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.335,46.902 34.4,34.4 0 1 0 50.335,-46.902 z m -25.167,23.451 m 20.384,-18.995 a 27.863,27.863 0 0 1 -40.769,37.99 27.863,27.863 0 0 1 40.769,-37.99 z"
+     style="fill:#1115ff"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path28" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.526"
+     y="-10339.608"
+     id="text28">24</text>
+  <rect
+     x="-13362.719"
+     y="-10372.817"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#1115ff"
+     id="rect28" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#f3f3f3;stroke-width:1.42303"
+     transform="scale(1.0074766,0.99257885)"
+     x="-13255.721"
+     y="-10428.202"
+     id="text29">GPIO8</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#b3b3b3;stroke-width:0.802406"
+     transform="scale(1.0983236,0.91047846)"
+     x="-12151.588"
+     y="-11353.271"
+     id="text30">SPI0_CE0_N</text>
+  <path
+     d="m -13245.614,-10351.28 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path30" />
+  <path
+     d="m -13413.626,-10273.477 m 25.167,-23.452 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.167,23.452 m 20.384,-18.995 a 27.863,27.863 0 0 1 -40.769,37.99 27.863,27.863 0 0 1 40.769,-37.99 z"
+     style="fill:#1115ff"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path31" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.526"
+     y="-10262.322"
+     id="text31">26</text>
+  <rect
+     x="-13362.719"
+     y="-10295.531"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#1115ff"
+     id="rect31" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#f3f3f3;stroke-width:1.42303"
+     transform="scale(1.0074766,0.99257885)"
+     x="-13255.721"
+     y="-10350.338"
+     id="text32">GPIO7</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#b3b3b3;stroke-width:0.802406"
+     transform="scale(1.0983236,0.91047846)"
+     x="-12151.588"
+     y="-11268.386"
+     id="text33">SPI0_CE1_N</text>
+  <path
+     d="m -13245.614,-10273.993 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path33" />
+  <path
+     d="m -13413.626,-10196.191 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.167,23.451 m 20.384,-18.995 a 27.863,27.863 0 0 1 -40.769,37.99 27.863,27.863 0 0 1 40.769,-37.99 z"
+     style="fill:#fff700"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path34" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.526"
+     y="-10185.035"
+     id="text34">28</text>
+  <rect
+     x="-13362.719"
+     y="-10218.244"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#fff700"
+     id="rect34" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.721"
+     y="-10272.474"
+     transform="scale(1.0074766,0.99257885)"
+     id="text35">ID_SC</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#686868;stroke-width:0.802406"
+     x="-12154.319"
+     y="-11183.5"
+     transform="scale(1.0983236,0.91047846)"
+     id="text36">I2C ID EEPROM</text>
+  <path
+     d="m -13245.614,-10196.707 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.694,13.328 8.24,8.24 45 1 0 9.694,-13.328 z m -4.847,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path36" />
+  <path
+     d="m -13413.626,-10118.904 m 25.167,-23.452 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.167,23.452 m 20.384,-18.995 a 27.863,27.863 0 0 1 -40.769,37.99 27.863,27.863 0 0 1 40.769,-37.99 z"
+     style="fill:#d8d8d8"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path37" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.526"
+     y="-10107.749"
+     id="text37">30</text>
+  <rect
+     x="-13362.719"
+     y="-10140.958"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#d8d8d8"
+     id="rect37" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.721"
+     y="-10194.608"
+     transform="scale(1.0074766,0.99257885)"
+     id="text38">Ground</text>
+  <path
+     d="m -13245.614,-10119.42 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path38" />
+  <path
+     d="m -13413.626,-10041.618 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.167,23.451 m 20.384,-18.995 a 27.863,27.863 0 0 1 -40.769,37.99 27.863,27.863 0 0 1 40.769,-37.99 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path39" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.526"
+     y="-10030.462"
+     id="text39">32</text>
+  <rect
+     x="-13362.719"
+     y="-10063.671"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect39" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.721"
+     y="-10116.744"
+     transform="scale(1.0074766,0.99257885)"
+     id="text40">GPIO12</text>
+  <path
+     d="m -13245.614,-10042.134 m 4.847,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.847,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path40" />
+  <path
+     d="m -13413.627,-9964.3313 m 25.168,-23.4513 a 34.4,34.4 0 1 0 -50.335,46.9027 34.4,34.4 0 1 0 50.335,-46.9027 z m -25.168,23.4513 m 20.385,-18.9949 a 27.863,27.863 0 0 1 -40.769,37.9899 27.863,27.863 0 0 1 40.769,-37.9899 z"
+     style="fill:#d8d8d8"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path41" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.526"
+     y="-9953.1748"
+     id="text41">34 </text>
+  <rect
+     x="-13362.719"
+     y="-9986.3838"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#d8d8d8"
+     id="rect41" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.721"
+     y="-10038.88"
+     transform="scale(1.0074766,0.99257885)"
+     id="text42">Ground</text>
+  <path
+     d="m -13245.614,-9964.8471 m 4.847,-6.6639 a 8.24,8.24 45 1 0 -9.694,13.3279 8.24,8.24 45 1 0 9.694,-13.3279 z m -4.847,6.6639 m 2.849,-3.9175 a 4.844,4.844 0 0 1 -5.698,7.8351 4.844,4.844 0 0 1 5.698,-7.8351 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path42" />
+  <path
+     d="m -13413.627,-9887.0446 m 25.168,-23.4514 a 34.4,34.4 0 1 0 -50.335,46.9027 34.4,34.4 0 1 0 50.335,-46.9027 z m -25.168,23.4514 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.769,37.9899 27.863,27.863 0 0 1 40.769,-37.9899 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path43" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.526"
+     y="-9875.8887"
+     id="text43">36</text>
+  <rect
+     x="-13362.719"
+     y="-9909.0977"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect43" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.721"
+     y="-9961.0156"
+     transform="scale(1.0074766,0.99257885)"
+     id="text44">GPIO16</text>
+  <path
+     d="m -13245.614,-9887.5605 m 4.847,-6.6639 a 8.24,8.24 45 1 0 -9.693,13.3279 8.24,8.24 45 1 0 9.693,-13.3279 z m -4.847,6.6639 m 2.849,-3.9175 a 4.844,4.844 0 0 1 -5.698,7.8351 4.844,4.844 0 0 1 5.698,-7.8351 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path44" />
+  <path
+     d="m -13413.627,-9809.7582 m 25.168,-23.4513 a 34.4,34.4 0 1 0 -50.335,46.9027 34.4,34.4 0 1 0 50.335,-46.9027 z m -25.168,23.4513 m 20.385,-18.9949 a 27.863,27.863 0 0 1 -40.769,37.9899 27.863,27.863 0 0 1 40.769,-37.9899 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path45" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.526"
+     y="-9798.6025"
+     id="text45">38</text>
+  <rect
+     x="-13362.719"
+     y="-9831.8115"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect45" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.721"
+     y="-9883.1514"
+     transform="scale(1.0074766,0.99257885)"
+     id="text46">GPIO20</text>
+  <path
+     d="m -13245.614,-9810.274 m 4.847,-6.6639 a 8.24,8.24 45 1 0 -9.694,13.3279 8.24,8.24 45 1 0 9.694,-13.3279 z m -4.847,6.6639 m 2.849,-3.9175 a 4.844,4.844 0 0 1 -5.698,7.8351 4.844,4.844 0 0 1 5.698,-7.8351 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path46" />
+  <path
+     d="m -13413.627,-9732.4717 m 25.168,-23.4513 a 34.4,34.4 0 1 0 -50.335,46.9027 34.4,34.4 0 1 0 50.335,-46.9027 z m -25.168,23.4513 m 20.385,-18.9949 a 27.863,27.863 0 0 1 -40.769,37.9899 27.863,27.863 0 0 1 40.769,-37.9899 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path47" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13432.526"
+     y="-9721.3164"
+     id="text47">40</text>
+  <rect
+     x="-13362.719"
+     y="-9754.5254"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect47" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13255.721"
+     y="-9805.2871"
+     transform="scale(1.0074766,0.99257885)"
+     id="text48">GPIO21</text>
+  <path
+     d="m -13245.614,-9732.9875 m 4.847,-6.6639 a 8.24,8.24 45 1 0 -9.694,13.3279 8.24,8.24 45 1 0 9.694,-13.3279 z m -4.847,6.6639 m 2.849,-3.9175 a 4.844,4.844 0 0 1 -5.698,7.8351 4.844,4.844 0 0 1 5.698,-7.8351 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path48" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13502.684"
+     y="-11188.344"
+     id="text49">1</text>
+  <rect
+     x="-13662.877"
+     y="-11221.553"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#ff8400"
+     id="rect49" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;stroke-width:1.42303"
+     transform="scale(1.0074766,0.99257885)"
+     x="-13495.485"
+     y="-11283.283"
+     id="text50">3.3V</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#686868;stroke-width:0.802406"
+     x="-12379.351"
+     y="-12285.457"
+     transform="scale(1.0983236,0.91047846)"
+     id="text51">Power</text>
+  <path
+     d="m -13664.776,-11200.01 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path51" />
+  <path
+     d="m -13493.802,-11122.205 m 25.168,-23.451 a 34.4,34.4 0 1 0 -50.335,46.902 34.4,34.4 0 1 0 50.335,-46.902 z m -25.168,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.769,37.99 27.863,27.863 0 0 1 40.769,-37.99 z"
+     style="fill:#ea00ff"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path52" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13502.684"
+     y="-11111.058"
+     id="text52">3</text>
+  <rect
+     x="-13662.877"
+     y="-11144.267"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#ea00ff"
+     id="rect52" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13523.873"
+     y="-11205.419"
+     transform="scale(1.0074766,0.99257885)"
+     id="text53">GPIO2</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#686868;stroke-width:0.802406"
+     x="-12397.561"
+     y="-12200.571"
+     transform="scale(1.0983236,0.91047846)"
+     id="text54">SDA1 I2C</text>
+  <path
+     d="m -13664.776,-11122.723 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path54" />
+  <path
+     d="m -13493.802,-11044.919 m 25.168,-23.451 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.168,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.769,37.99 27.863,27.863 0 0 1 40.769,-37.99 z"
+     style="fill:#ea00ff"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path55" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13502.684"
+     y="-11033.771"
+     id="text55">5</text>
+  <rect
+     x="-13662.877"
+     y="-11066.979"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#ea00ff"
+     id="rect55" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13523.873"
+     y="-11127.555"
+     transform="scale(1.0074766,0.99257885)"
+     id="text56">GPIO3</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#686868;stroke-width:0.802406"
+     x="-12397.561"
+     y="-12115.686"
+     transform="scale(1.0983236,0.91047846)"
+     id="text57">SCL1 I2</text>
+  <path
+     d="m -13664.776,-11045.437 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path57" />
+  <path
+     d="m -13493.802,-10967.632 m 25.168,-23.451 a 34.4,34.4 0 1 0 -50.335,46.902 34.4,34.4 0 1 0 50.335,-46.902 z m -25.168,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.769,37.99 27.863,27.863 0 0 1 40.769,-37.99 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path58" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13502.684"
+     y="-10956.484"
+     id="text58">7</text>
+  <rect
+     x="-13662.877"
+     y="-10989.693"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect58" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13523.873"
+     y="-11049.689"
+     transform="scale(1.0074766,0.99257885)"
+     id="text59">GPIO4</text>
+  <path
+     d="m -13664.776,-10968.15 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path59" />
+  <path
+     d="m -13493.802,-10890.345 m 25.168,-23.451 a 34.4,34.4 0 1 0 -50.335,46.902 34.4,34.4 0 1 0 50.335,-46.902 z m -25.168,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.769,37.99 27.863,27.863 0 0 1 40.769,-37.99 z"
+     style="fill:#d8d8d8"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path60" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13502.684"
+     y="-10879.197"
+     id="text60">9</text>
+  <rect
+     x="-13662.877"
+     y="-10912.406"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#d8d8d8"
+     id="rect60" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13523.873"
+     y="-10971.825"
+     transform="scale(1.0074766,0.99257885)"
+     id="text61">Ground</text>
+  <path
+     d="m -13664.776,-10890.864 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path61" />
+  <path
+     d="m -13493.802,-10813.059 m 25.168,-23.451 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.168,23.451 m 20.385,-18.994 a 27.863,27.863 0 0 1 -40.769,37.989 27.863,27.863 0 0 1 40.769,-37.989 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path62" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13512.684"
+     y="-10801.911"
+     id="text62">11</text>
+  <rect
+     x="-13662.877"
+     y="-10835.12"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect62" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13523.873"
+     y="-10893.961"
+     transform="scale(1.0074766,0.99257885)"
+     id="text63">GPIO17</text>
+  <path
+     d="m -13664.776,-10813.578 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path63" />
+  <path
+     d="m -13493.802,-10735.773 m 25.168,-23.452 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.168,23.452 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.769,37.989 27.863,27.863 0 0 1 40.769,-37.989 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path64" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13512.684"
+     y="-10724.624"
+     id="text64">13</text>
+  <rect
+     x="-13662.877"
+     y="-10757.833"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect64" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13523.873"
+     y="-10816.097"
+     transform="scale(1.0074766,0.99257885)"
+     id="text65">GPIO27</text>
+  <path
+     d="m -13664.776,-10736.291 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path65" />
+  <path
+     d="m -13493.802,-10658.487 m 25.168,-23.451 a 34.4,34.4 0 1 0 -50.335,46.902 34.4,34.4 0 1 0 50.335,-46.902 z m -25.168,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.769,37.99 27.863,27.863 0 0 1 40.769,-37.99 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path66" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13512.684"
+     y="-10647.338"
+     id="text66">15</text>
+  <rect
+     x="-13662.877"
+     y="-10680.547"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect66" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13523.873"
+     y="-10738.232"
+     transform="scale(1.0074766,0.99257885)"
+     id="text67">GPIO22</text>
+  <path
+     d="m -13664.776,-10659.004 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path67" />
+  <path
+     d="m -13493.802,-10581.2 m 25.168,-23.452 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.168,23.452 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.769,37.989 27.863,27.863 0 0 1 40.769,-37.989 z"
+     style="fill:#ff8400"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path68" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13512.684"
+     y="-10570.051"
+     id="text68">17</text>
+  <rect
+     x="-13662.877"
+     y="-10603.26"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#ff8400"
+     id="rect68" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;stroke-width:1.42303"
+     transform="scale(1.0074766,0.99257885)"
+     x="-13498.066"
+     y="-10660.368"
+     id="text69">3.3V</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#686868;stroke-width:0.802406"
+     x="-12379.351"
+     y="-11606.372"
+     transform="scale(1.0983236,0.91047846)"
+     id="text70">Power</text>
+  <path
+     d="m -13664.776,-10581.718 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path70" />
+  <path
+     d="m -13493.802,-10503.914 m 25.168,-23.451 a 34.4,34.4 0 1 0 -50.335,46.902 34.4,34.4 0 1 0 50.335,-46.902 z m -25.168,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.769,37.99 27.863,27.863 0 0 1 40.769,-37.99 z"
+     style="fill:#1115ff"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path71" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13512.684"
+     y="-10492.766"
+     id="text71">19</text>
+  <rect
+     x="-13662.877"
+     y="-10525.975"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#1115ff"
+     id="rect71" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#f3f3f3;stroke-width:1.42303"
+     transform="scale(1.0074766,0.99257885)"
+     x="-13523.873"
+     y="-10582.503"
+     id="text72">GPIO10</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#b3b3b3;stroke-width:0.802406"
+     transform="scale(1.0983236,0.91047846)"
+     x="-12406.665"
+     y="-11521.486"
+     id="text73">SPI0_MOSI</text>
+  <path
+     d="m -13664.776,-10504.432 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path73" />
+  <path
+     d="m -13494.214,-10427.881 m 25.168,-23.451 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.168,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.99 27.863,27.863 0 0 1 40.77,-37.99 z"
+     style="fill:#1115ff"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path74" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13513.096"
+     y="-10416.731"
+     id="text74">21</text>
+  <rect
+     x="-13663.289"
+     y="-10449.94"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#1115ff"
+     id="rect74" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#f3f3f3;stroke-width:1.42303"
+     transform="scale(1.0074766,0.99257885)"
+     x="-13524.282"
+     y="-10505.901"
+     id="text75">GPIO9</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#b3b3b3;stroke-width:0.802406"
+     transform="scale(1.0983236,0.91047846)"
+     x="-12407.04"
+     y="-11437.978"
+     id="text76">SPI0_MISO</text>
+  <path
+     d="m -13665.188,-10428.398 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.698,7.835 4.844,4.844 0 0 1 5.698,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path76" />
+  <path
+     d="m -13494.214,-10350.594 m 25.168,-23.452 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.168,23.452 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.99 27.863,27.863 0 0 1 40.77,-37.99 z"
+     style="fill:#1115ff"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path77" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13513.096"
+     y="-10339.445"
+     id="text77">23</text>
+  <rect
+     x="-13663.289"
+     y="-10372.654"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#1115ff"
+     id="rect77" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#f3f3f3;stroke-width:1.42303"
+     transform="scale(1.0074766,0.99257885)"
+     x="-13524.282"
+     y="-10428.037"
+     id="text78">GPIO11</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#b3b3b3;stroke-width:0.802406"
+     transform="scale(1.0983236,0.91047846)"
+     x="-12407.04"
+     y="-11353.092"
+     id="text79">SPIO_SCLK</text>
+  <path
+     d="m -13665.188,-10351.111 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.698,7.836 4.844,4.844 0 0 1 5.698,-7.836 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path79" />
+  <path
+     d="m -13494.214,-10273.308 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.334,46.903 34.4,34.4 0 1 0 50.334,-46.903 z m -25.167,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.99 27.863,27.863 0 0 1 40.77,-37.99 z"
+     style="fill:#d8d8d8"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path80" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13513.096"
+     y="-10262.158"
+     id="text80">25</text>
+  <rect
+     x="-13663.289"
+     y="-10295.367"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#d8d8d8"
+     id="rect80" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13524.282"
+     y="-10350.173"
+     transform="scale(1.0074766,0.99257885)"
+     id="text81">Ground</text>
+  <path
+     d="m -13665.188,-10273.824 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.699,7.835 4.844,4.844 0 0 1 5.699,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path81" />
+  <path
+     d="m -13494.214,-10196.021 m 25.168,-23.452 a 34.4,34.4 0 1 0 -50.335,46.903 34.4,34.4 0 1 0 50.335,-46.903 z m -25.168,23.452 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.99 27.863,27.863 0 0 1 40.77,-37.99 z"
+     style="fill:#fff700"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path82" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13513.096"
+     y="-10184.872"
+     id="text82">27</text>
+  <rect
+     x="-13663.289"
+     y="-10218.081"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#fff700"
+     id="rect82" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13524.282"
+     y="-10272.309"
+     transform="scale(1.0074766,0.99257885)"
+     id="text83">ID_SD</text>
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#686868;stroke-width:0.802406"
+     x="-12429.803"
+     y="-11183.32"
+     transform="scale(1.0983236,0.91047846)"
+     id="text84">I2C ID EEPROM</text>
+  <path
+     d="m -13665.188,-10196.538 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.917 a 4.844,4.844 0 0 1 -5.699,7.835 4.844,4.844 0 0 1 5.699,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path84" />
+  <path
+     d="m -13494.214,-10118.735 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.334,46.903 34.4,34.4 0 1 0 50.334,-46.903 z m -25.167,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.99 27.863,27.863 0 0 1 40.77,-37.99 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path85" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13513.096"
+     y="-10107.585"
+     id="text85">29</text>
+  <rect
+     x="-13663.289"
+     y="-10140.794"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect85" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13524.282"
+     y="-10194.444"
+     transform="scale(1.0074766,0.99257885)"
+     id="text86">GPIO5</text>
+  <path
+     d="m -13665.188,-10119.253 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.699,7.835 4.844,4.844 0 0 1 5.699,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path86" />
+  <path
+     d="m -13494.214,-10041.448 m 25.167,-23.451 a 34.4,34.4 0 1 0 -50.334,46.902 34.4,34.4 0 1 0 50.334,-46.902 z m -25.167,23.451 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.99 27.863,27.863 0 0 1 40.77,-37.99 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path87" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13513.096"
+     y="-10030.299"
+     id="text87">31</text>
+  <rect
+     x="-13663.289"
+     y="-10063.508"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect87" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13524.282"
+     y="-10116.58"
+     transform="scale(1.0074766,0.99257885)"
+     id="text88">GPIO6</text>
+  <path
+     d="m -13665.188,-10041.966 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.918 a 4.844,4.844 0 0 1 -5.699,7.835 4.844,4.844 0 0 1 5.699,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path88" />
+  <path
+     d="m -13494.214,-9964.1552 m 25.167,-23.4514 a 34.4,34.4 0 1 0 -50.334,46.9027 34.4,34.4 0 1 0 50.334,-46.9027 z m -25.167,23.4514 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.9899 27.863,27.863 0 0 1 40.77,-37.9899 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path89" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13513.096"
+     y="-9953.0117"
+     id="text89">33</text>
+  <rect
+     x="-13663.289"
+     y="-9986.2207"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect89" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13524.282"
+     y="-10038.716"
+     transform="scale(1.0074766,0.99257885)"
+     id="text90">GPIO13</text>
+  <path
+     d="m -13665.188,-9964.68 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.9175 a 4.844,4.844 0 0 1 -5.699,7.835 4.844,4.844 0 0 1 5.699,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path90" />
+  <path
+     d="m -13494.214,-9886.8686 m 25.167,-23.4514 a 34.4,34.4 0 1 0 -50.334,46.9027 34.4,34.4 0 1 0 50.334,-46.9027 z m -25.167,23.4514 m 20.385,-18.9949 a 27.863,27.863 0 0 1 -40.77,37.9898 27.863,27.863 0 0 1 40.77,-37.9898 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path91" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13513.096"
+     y="-9875.7256"
+     id="text91">35</text>
+  <rect
+     x="-13663.289"
+     y="-9908.9346"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect91" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13524.282"
+     y="-9960.8506"
+     transform="scale(1.0074766,0.99257885)"
+     id="text92">GPIO19</text>
+  <path
+     d="m -13665.188,-9887.3933 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.3279 8.24,8.24 45 1 0 9.693,-13.3279 z m -4.846,6.664 m 2.849,-3.9176 a 4.844,4.844 0 0 1 -5.699,7.8351 4.844,4.844 0 0 1 5.699,-7.8351 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path92" />
+  <path
+     d="m -13494.214,-9809.5821 m 25.167,-23.4514 a 34.4,34.4 0 1 0 -50.334,46.9027 34.4,34.4 0 1 0 50.334,-46.9027 z m -25.167,23.4514 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.9899 27.863,27.863 0 0 1 40.77,-37.9899 z"
+     style="fill:#009507"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path93" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13513.096"
+     y="-9798.4395"
+     id="text93">37</text>
+  <rect
+     x="-13663.289"
+     y="-9831.6484"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#009507"
+     id="rect93" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13524.282"
+     y="-9882.9863"
+     transform="scale(1.0074766,0.99257885)"
+     id="text94">GPIO26</text>
+  <path
+     d="m -13665.188,-9810.1069 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.328 8.24,8.24 45 1 0 9.693,-13.328 z m -4.846,6.664 m 2.849,-3.9175 a 4.844,4.844 0 0 1 -5.699,7.835 4.844,4.844 0 0 1 5.699,-7.835 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path94" />
+  <path
+     d="m -13494.214,-9732.2956 m 25.167,-23.4514 a 34.4,34.4 0 1 0 -50.334,46.9027 34.4,34.4 0 1 0 50.334,-46.9027 z m -25.167,23.4514 m 20.385,-18.995 a 27.863,27.863 0 0 1 -40.77,37.9899 27.863,27.863 0 0 1 40.77,-37.9899 z"
+     style="fill:#d8d8d8"
+     bx:shape="ring 556 194 27.863 27.863 34.4 34.4 1@652645be"
+     id="path95" />
+  <text
+     style="font-size:32px;font-family:Arial, sans-serif;white-space:pre;fill:#333333"
+     x="-13513.096"
+     y="-9721.1523"
+     id="text95">39</text>
+  <rect
+     x="-13663.289"
+     y="-9754.3613"
+     width="116.683"
+     height="42.897999"
+     rx="4"
+     ry="4"
+     style="fill:#d8d8d8"
+     id="rect95" />
+  <text
+     style="font-size:20.0647px;font-family:Arial, sans-serif;white-space:pre;fill:#333333;stroke-width:1.42303"
+     x="-13524.282"
+     y="-9805.1221"
+     transform="scale(1.0074766,0.99257885)"
+     id="text96">Ground</text>
+  <path
+     d="m -13665.188,-9732.8203 m 4.846,-6.664 a 8.24,8.24 45 1 0 -9.693,13.3279 8.24,8.24 45 1 0 9.693,-13.3279 z m -4.846,6.664 m 2.849,-3.9176 a 4.844,4.844 0 0 1 -5.699,7.8351 4.844,4.844 0 0 1 5.699,-7.8351 z"
+     style="fill:#cfb401;stroke-width:2px"
+     bx:shape="ring 788 136 4.844 4.844 8.24 8.24 1@77eb386c"
+     id="path96" />
+  <rect
+     x="-13519.922"
+     y="-11227.83"
+     width="56.395"
+     height="54.971001"
+     style="fill:none;stroke:#ff8400;stroke-width:5px"
+     id="rect96" />
+  <text
+     style="font-size:11.3139px;font-family:Arial, sans-serif;white-space:pre;fill:#686868;stroke-width:0.802406"
+     x="-12383.114"
+     y="-12030.285"
+     transform="scale(1.0983236,0.91047846)"
+     id="text97">1-WIRE</text>
+  <g
+     id="g2"
+     transform="matrix(3.9923989,0,0,3.9923989,-14398.541,-10916.815)">
+    <g
+       id="g41"
+       transform="matrix(1.2647802,0,0,1.2647802,4.6929274,61.702124)">
+      <g
+         id="g40">
+        <g
+           id="g33">
+          <g
+             id="g18"
+             style="opacity:1"
+             transform="matrix(0.82857621,0,0,0.82857621,46.085955,25.067252)">
+            <path
+               id="rect1-3"
+               style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+               d="m 275.59067,-3.6765631 c -3.72135,0 -6.71719,2.99584358 -6.71719,6.7171886 v 8.4281265 c -0.008,0.208107 -0.0312,0.411723 -0.0312,0.621875 V 130.46096 c 0,0.20995 0.0232,0.41397 0.0312,0.62187 v 8.42969 c 0,3.72135 2.99584,6.71719 6.71719,6.71719 h 9.02031 0.10157 5.69687 c 8.73558,0 15.76719,-7.03317 15.76719,-15.76875 V 12.090627 c 0,-8.7355804 -7.03161,-15.7671901 -15.76719,-15.7671901 h -5.69687 -0.10157 z" />
+            <g
+               id="g17">
+              <g
+                 id="g15"
+                 transform="translate(0.141415)">
+                <path
+                   id="rect5"
+                   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#7e838d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+                   d="m 280.50005,94.251578 v 23.160942 a 12.091529,12.091529 0 0 0 10.07969,10.43906 h 4.92031 V 94.251578 Z" />
+                <g
+                   id="g7"
+                   style="fill:#223333;fill-opacity:1"
+                   transform="translate(-0.6763416,1.1671605)">
+                  <circle
+                     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#223333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+                     id="circle10"
+                     cx="288.67639"
+                     cy="120.87993"
+                     r="2.58094" />
+                  <circle
+                     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#223333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+                     id="circle6"
+                     cx="288.67639"
+                     cy="109.88441"
+                     r="2.58094" />
+                  <circle
+                     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#223333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+                     id="circle7"
+                     cx="288.67639"
+                     cy="98.888908"
+                     r="2.58094" />
+                </g>
+              </g>
+              <g
+                 id="g16"
+                 transform="translate(0.14140253,-0.04641594)">
+                <rect
+                   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#7e838d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+                   id="rect4-6"
+                   width="15.000003"
+                   height="33.600006"
+                   x="280.50006"
+                   y="54.700008"
+                   ry="0" />
+                <g
+                   id="g11"
+                   style="fill:#223333;fill-opacity:1"
+                   transform="translate(-0.67632914,-38.384407)">
+                  <circle
+                     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#223333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+                     id="circle8"
+                     cx="288.67639"
+                     cy="120.87993"
+                     r="2.58094" />
+                  <circle
+                     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#223333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+                     id="circle9"
+                     cx="288.67639"
+                     cy="109.88441"
+                     r="2.58094" />
+                  <circle
+                     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#223333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+                     id="circle11"
+                     cx="288.67639"
+                     cy="98.888908"
+                     r="2.58094" />
+                </g>
+              </g>
+              <g
+                 id="g14"
+                 transform="translate(-0.141415)">
+                <path
+                   id="path13"
+                   style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#7e838d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+                   d="M 280.78288,48.655613 V 25.494671 a 12.091529,12.091529 0 0 1 10.07969,-10.439064 h 4.92031 v 33.600006 z" />
+                <g
+                   id="g13"
+                   style="fill:#223333;fill-opacity:1"
+                   transform="translate(-0.3935116,-78.028808)">
+                  <circle
+                     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#223333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+                     id="circle12"
+                     cx="288.67639"
+                     cy="120.87993"
+                     r="2.58094" />
+                  <circle
+                     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#223333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+                     id="circle13"
+                     cx="288.67639"
+                     cy="109.88441"
+                     r="2.58094" />
+                  <circle
+                     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#223333;fill-opacity:1;fill-rule:evenodd;stroke-width:0.799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+                     id="circle14"
+                     cx="288.67639"
+                     cy="98.888908"
+                     r="2.58094" />
+                </g>
+              </g>
+            </g>
+          </g>
+          <g
+             id="g32">
+            <g
+               id="g22"
+               transform="translate(-0.50220769,0.40000006)">
+              <text
+                 xml:space="preserve"
+                 transform="matrix(0.80000013,0,0,0.80000013,-18.083736,-42.800007)"
+                 id="text20-1"
+                 style="font-size:10.6667px;white-space:pre;shape-inside:url(#rect20-2);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+                   x="390"
+                   y="109.20537"
+                   id="tspan1">1</tspan></text>
+              <text
+                 xml:space="preserve"
+                 transform="matrix(0.80000013,0,0,0.80000013,-18.612802,-33.600005)"
+                 id="text21-0"
+                 style="font-size:10.6667px;white-space:pre;shape-inside:url(#rect21-8);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+                   x="390"
+                   y="109.20537"
+                   id="tspan4">2</tspan></text>
+              <text
+                 xml:space="preserve"
+                 transform="matrix(0.80000013,0,0,0.80000013,-18.578677,-24.400004)"
+                 id="text22-6"
+                 style="font-size:10.6667px;white-space:pre;shape-inside:url(#rect22-9);display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+                   x="390"
+                   y="109.20537"
+                   id="tspan5">3</tspan></text>
+            </g>
+            <g
+               id="g27"
+               transform="translate(-0.55020409)">
+              <text
+                 xml:space="preserve"
+                 transform="matrix(0.80000013,0,0,0.80000013,-18.586139,-9.200002)"
+                 id="text23-3"
+                 style="font-size:10.6667px;white-space:pre;shape-inside:url(#rect25-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+                   x="390"
+                   y="109.20537"
+                   id="tspan8">4</tspan></text>
+              <text
+                 xml:space="preserve"
+                 transform="matrix(0.80000013,0,0,0.80000013,-18.607473,-0.08533412)"
+                 id="text24-2"
+                 style="font-size:10.6667px;white-space:pre;shape-inside:url(#rect26-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+                   x="390"
+                   y="109.20537"
+                   id="tspan9">5</tspan></text>
+              <text
+                 xml:space="preserve"
+                 transform="matrix(0.80000013,0,0,0.80000013,-18.616006,9.200001)"
+                 id="text25-0"
+                 style="font-size:10.6667px;white-space:pre;shape-inside:url(#rect27-6);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+                   x="390"
+                   y="109.20537"
+                   id="tspan10">6</tspan></text>
+            </g>
+            <g
+               id="g31"
+               transform="translate(0.03111399)">
+              <text
+                 xml:space="preserve"
+                 transform="matrix(0.80000013,0,0,0.80000013,-19.141857,23.587367)"
+                 id="text27-6"
+                 style="font-size:10.6667px;white-space:pre;shape-inside:url(#rect29-1);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+                   x="390"
+                   y="109.20537"
+                   id="tspan11">7</tspan></text>
+              <text
+                 xml:space="preserve"
+                 transform="matrix(0.80000013,0,0,0.80000013,-19.158924,32.744702)"
+                 id="text28-1"
+                 style="font-size:10.6667px;white-space:pre;shape-inside:url(#rect30-2);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+                   x="390"
+                   y="109.20537"
+                   id="tspan12">8</tspan></text>
+              <text
+                 xml:space="preserve"
+                 transform="matrix(0.80000013,0,0,0.80000013,-19.154657,41.98737)"
+                 id="text29-5"
+                 style="font-size:10.6667px;white-space:pre;shape-inside:url(#rect31-9);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+                   x="390"
+                   y="109.20537"
+                   id="tspan13">9</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g39"
+           transform="translate(-25.192555,-15.930586)">
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#6b6b6a;stroke-width:3.2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 349.73194,135.59522 c 16.89034,-18.32676 17.5074,-49.697658 0,-68.538567"
+             id="path37-5" />
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#6b6b6a;stroke-width:3.2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 340.05591,123.94386 c 12.4668,-18.57814 11.62434,-34.191459 0,-46.309845"
+             id="path38-4" />
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#6b6b6a;stroke-width:3.2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 330.75189,112.59768 c 5.43273,-8.8979 5.44719,-15.600982 0,-23.710644"
+             id="path39-7" />
+        </g>
+      </g>
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#1e1d1c;stroke-width:3.2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker20);marker-end:url(#Dot)"
+         d="M 174.27671,185.8448 C 247.40367,188.13085 283.54722,75.00679 284.80005,74.800012"
+         id="path18-6" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#cb1415;stroke-width:3.2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#marker20)"
+         d="M 175.62143,18.163466 C 165.44628,-44.408128 284.74722,84.206791 286.00005,84.000013"
+         id="path19-5" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#3863df;stroke-width:3.2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#marker20)"
+         d="M 175.85407,169.21481 C 195.43614,59.476724 283.26531,42.342692 284.51814,42.135914"
+         id="path33-6" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#f9ae13;stroke-width:3.2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#marker20)"
+         d="M 175.39128,139.29984 C 231.57959,47.923209 283.26531,50.863703 284.51814,50.656925"
+         id="path34-9" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#fa53e8;stroke-width:3.2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#marker20)"
+         d="M 174.9285,124.34235 C 188.99346,94.841135 284.00627,94.209717 285.2591,94.002939"
+         id="path35" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#2ace3b;stroke-width:3.2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Dot);marker-end:url(#marker20)"
+         d="m 175.25294,108.9681 c -12.99592,-61.182486 108.38285,-0.68019 109.63568,-0.88697"
+         id="path36-3" />
+    </g>
+    <g
+       id="g1">
+      <g
+         id="g12"
+         transform="translate(-1.2653382)">
+        <rect
+           style="font-variation-settings:normal;vector-effect:none;fill:#4978dc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.608708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+           id="rect2-7"
+           width="18.338699"
+           height="10.373405"
+           x="385.48315"
+           y="110.58791" />
+        <text
+           xml:space="preserve"
+           style="font-size:8.53336px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.477732;stroke-dasharray:none;stroke-opacity:1"
+           x="387.95383"
+           y="118.97462"
+           id="text2-4"><tspan
+             id="tspan2"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.477732;stroke-dasharray:none;stroke-opacity:1"
+             x="387.95383"
+             y="118.97462">dat</tspan></text>
+      </g>
+      <g
+         id="g19"
+         transform="translate(-1.5641972)">
+        <rect
+           style="font-variation-settings:normal;vector-effect:none;fill:#4978dc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.608708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+           id="rect3"
+           width="18.338699"
+           height="10.373405"
+           x="385.78201"
+           y="121.70228" />
+        <text
+           xml:space="preserve"
+           style="font-size:8.53336px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.477732;stroke-dasharray:none;stroke-opacity:1"
+           x="386.418"
+           y="130.08899"
+           id="text3-5"><tspan
+             id="tspan3"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.477732;stroke-dasharray:none;stroke-opacity:1"
+             x="386.418"
+             y="130.08899">cmd</tspan></text>
+      </g>
+      <g
+         id="g9"
+         transform="translate(-0.33912992)">
+        <rect
+           style="font-variation-settings:normal;vector-effect:none;fill:#4978dc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.608708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+           id="rect6"
+           width="18.338699"
+           height="10.373405"
+           x="384.55695"
+           y="175.42169" />
+        <text
+           xml:space="preserve"
+           style="font-size:8.53336px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.477732;stroke-dasharray:none;stroke-opacity:1"
+           x="388.14975"
+           y="183.37747"
+           id="text6-2"><tspan
+             id="tspan6"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.477732;stroke-dasharray:none;stroke-opacity:1"
+             x="388.14975"
+             y="183.37747">att</tspan></text>
+      </g>
+      <g
+         id="g8"
+         transform="translate(-0.15388792)">
+        <rect
+           style="font-variation-settings:normal;vector-effect:none;fill:#4978dc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.608708;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+           id="rect7-5"
+           width="18.338699"
+           height="10.373405"
+           x="384.3717"
+           y="192.8342" />
+        <text
+           xml:space="preserve"
+           style="font-size:8.53336px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.477732;stroke-dasharray:none;stroke-opacity:1"
+           x="387.91757"
+           y="201.22092"
+           id="text7-4"><tspan
+             id="tspan7"
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.477732;stroke-dasharray:none;stroke-opacity:1"
+             x="387.91757"
+             y="201.22092">clk</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
